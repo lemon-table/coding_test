@@ -1,7 +1,5 @@
 package src.java;
 
-import java.util.Arrays;
-
 public class 배열자르기 {
 
     public static void main(String[] args) {
