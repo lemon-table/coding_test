@@ -10,10 +10,10 @@ public class 두수의차 {
         System.out.println("두 수의 차: " + result);
     }
 
-        // solution 메서드
-        public int solution(int num1, int num2) {
-            return num1 - num2;
-        }
+    // solution 메서드
+    public int solution(int num1, int num2) {
+        return num1 - num2;
+    }
     
     
 }
