@@ -89,6 +89,7 @@
 ### [74.신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
 ### [75.최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
 ### [76.JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
+### [77.이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
 
 
 ## 📖 정렬   
